@@ -11,17 +11,45 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+       A:Good Visualization
+       Source: [HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW)
 
+         Explanation:
+         The HR Dashboard presents a comprehensive overview of various HR metrics for an organization, including employee demographics, department distribution, and other key performance indicators (KPIs). This dashboard is an excellent example of a good data visualization for several reasons:
 
+         1. Aesthetic:The dashboard uses a consistent and visually appealing color scheme, primarily consisting of dark backgrounds with contrasting yellow and white text. This choice enhances readability and makes the data stand out.The information is well-organized into distinct sections, allowing viewers to quickly locate and understand the data they are interested in. Each section is clearly labeled, and the use of visual elements like bars and maps helps in making quick comparisons.
+         2. Substantive:The dashboard presents a range of metrics that are relevant to HR management, such as total employees, active employees, employees by department, and diversity statistics. The data is clearly labeled, and metrics are compared with previous year (PY) values, providing context for understanding changes and trends. Also each visual element is designed to provide detailed insights. 
+         3. Perceptual:Ease of Interpretation, the dashboard is user-friendly and intuitive. Key figures are highlighted in large fonts at the top, immediately drawing attention to the most 
 
+         The HR Dashboard is classified as a good visualization due to its clear, organized, and aesthetically pleasing design. It accurately presents relevant data, provides detailed insights, and is easy to interpret. The interactivity adds an extra layer of functionality, making it a valuable tool for HR analysis.
 
+       B: Bad Visualization
+          Source: [Wealth Management Dashboard on Tableau Public](https://public.tableau.com/app/profile/francisco8181/viz/WealthManagement_17210375097540/Overview)
+          
+          Explanation:
+          1. Aesthetic:The dashboard is overly cluttered with too many sections and elements. This makes it challenging for viewers to focus on the most important information. -The lack of consistent spacing and alignment further contributes to a chaotic appearance.
+          -Color Scheme: The use of blue tones is excessive, and there is little contrast between different sections. This can make it difficult for viewers to distinguish between various data points and metrics.
 
+          2. Substantive:Important metrics are not emphasized, making it hard for viewers to understand what the key takeaways should be. The use of similar chart types for different metrics (e.g., bar charts and tables) adds to the confusion.
+          -The dashboard does not provide sufficient context for the data presented. For example, there is no explanation of what "FUM" stands for or why certain metrics are important. This lack of context can leave viewers unsure about the significance of the data.
 
+          3. Perceptual:The dashboard's layout does not facilitate easy navigation or understanding. Key figures and important metrics are scattered throughout the dashboard, requiring viewers to search for the information they need.
 
+          This visualization is considered poor due to its lack of focus, visual clutter, and the overwhelming amount of data presented without clear prioritization. The aesthetic choices, such as excessive use of blue tones and lack of contrast, further detract from its effectiveness. The dashboard fails to clearly communicate key insights, making it difficult for viewers to grasp the essential information.
+
+          
+      
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+      A:While the dashboard is highly effective, it could be further improved by providing more context for certain metrics, such as explaining why certain trends are occurring or what external factors might be influencing the data. Additionally, ensuring that all interactive elements are intuitive and accessible to all users would enhance usability.
+
+      B:To improve this dashboard, the following changes could be made:
+         -Simplify and Prioritize: Reduce the number of sections and focus on the most critical metrics. Highlight key figures to draw viewers' attention to the most important data.
+         -Enhance Visual Hierarchy: Use different colors or shades to differentiate between sections and emphasize the most important data points. Ensure that the layout guides viewers logically through the information.
+         -Provide Context: Include brief descriptions or tooltips to explain key terms and the significance of certain metrics. This will help viewers understand the data's relevance and importance.
+         -Improve Navigation: Arrange the dashboard in a way that facilitates easy navigation, with a clear flow from one section to the next. This will help viewers quickly find the information they need.
 
 
 
