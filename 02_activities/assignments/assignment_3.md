@@ -8,16 +8,30 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
         Your answer...
+     A: Good Visualization
+       Source: [HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW)
 
 
+        Ethical Considerations:
+        The HR Dashboard is a strong example of ethical data visualization. It is accessible, using a clear layout and intuitive interactive features that make the data easily navigable and comprehensible. The color scheme, while visually appealing, could be improved for colorblind users. The visualization's reproducibility is supported by the use of standard HR metrics, though it would benefit from more transparency regarding data sources and methodologies. In terms of equity, the dashboard provides a balanced representation of various demographics and metrics, ensuring no group is overlooked. Overall, it effectively communicates the data without bias or confusion.
+
+     B: Bad Visualization
+        Source: [Wealth Management Dashboard on Tableau Public](https://public.tableau.com/app/profile/francisco8181/viz/WealthManagement_17210375097540/Overview)
+        
+        Ethical Considerations:
+        The Wealth Management Dashboard falls short in several ethical aspects. Its lack of accessibility stems from a cluttered layout and insufficient color contrast, making it difficult for users, especially those with visual impairments, to interpret the data. Reproducibility is compromised due to vague metric definitions and a lack of clarity about data sources and methodologies. The dashboard also fails in equity, as it does not clearly highlight key metrics, potentially leading to biased interpretations. The overwhelming amount of information without prioritization or context can obscure critical insights, reducing the dashboard's overall effectiveness.
 
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
         Your answer...
-
-
-
+     A: Good Visualization
+        HR Dashboard on Tableau Public
+        The dashboard could include more accessible color choices and provide alternative text for graphical elements. Increasing transparency by sharing data sources and methodologies would improve reproducibility. Ensuring that the data selection process is clearly explained can help maintain equity and avoid potential biases.
+       
+     B: Bad Visualization
+        Wealth Management Dashboard on Tableau Public
+        The dashboard should simplify its layout, use a more varied and contrasting color scheme, and include clear definitions and explanations for all metrics. Enhancing reproducibility would involve providing detailed information about data sources and methodologies. Ensuring a balanced and transparent presentation of data is crucial for maintaining equity and avoiding misleading conclusions.
         ```
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
