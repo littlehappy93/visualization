@@ -7,8 +7,7 @@
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
         ```
-        Your answer...
-     A: Good Visualization
+       A: Good Visualization
        Source: [HR Dashboard on Tableau Public](https://public.tableau.com/app/profile/iaroslava/viz/HRDashboard_17194096809750/OVERVIEW)
 
 
@@ -24,7 +23,6 @@
         ```
     - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
         ```
-        Your answer...
      A: Good Visualization
         HR Dashboard on Tableau Public
         The dashboard could include more accessible color choices and provide alternative text for graphical elements. Increasing transparency by sharing data sources and methodologies would improve reproducibility. Ensuring that the data selection process is clearly explained can help maintain equity and avoid potential biases.
